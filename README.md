@@ -127,7 +127,7 @@
 **官方网站**：[https://gw.hory-ai.com](https://gw.hory-ai.com)  
 **技术社区**：[https://i.hory-ai.com](https://i.hory-ai.com)
 
-*工作日 9:00-18:00 快速响应 | 7×24小时紧急技术支持*
+* 快速响应 | 7×24小时紧急技术支持*
 
 </div>
 
